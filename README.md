@@ -33,7 +33,7 @@ We have built a model based on the classic MNIST data which is trained to not on
 
 ## Team Members
 
-[Anirban]()
+[Abhiram Gurijala]()
 
 [Arijit Ganguly]()
 
