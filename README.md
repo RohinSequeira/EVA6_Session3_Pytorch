@@ -37,6 +37,8 @@ Total loss is observers as addition of both the losses
 
 <img width="1364" alt="Screenshot 2021-05-22 at 02 45 05" src="https://user-images.githubusercontent.com/31658286/119199069-0ec51080-baa8-11eb-9416-f8da3da964a8.png">
 
+Complete training and testing log available on notebook.
+
 MNIST Test Accuracy Achieved: `92%`
 
 R2 score over 5 epochs: `0.065`
